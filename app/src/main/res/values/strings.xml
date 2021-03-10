@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Voter Application</string>
+    <string name="candidatetxt">Candidates Votes</string>
+    <string name="go_btn">Give Vote</string>
+    <string name="vote_txt">Please Vote</string>
+    <string name="name_lbl">Name: </string>
+    <string name="id_lbl">ID: </string>
+    <string name="vote_btn">Vote</string>
+</resources>
